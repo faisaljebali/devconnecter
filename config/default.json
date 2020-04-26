@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://faisal007:faisal007@cluster0-cvg5b.mongodb.net/blog",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
